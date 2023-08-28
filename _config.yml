@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9f/45/eb/9f45ebb2-6add-6245-76b7-4f068a3d1b96/logo_gsa_ios_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/1200x600wa.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
