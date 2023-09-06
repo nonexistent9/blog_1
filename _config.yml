@@ -22,14 +22,15 @@ title: Varun Raghunathan # the main title
 
 tagline: Product Marketing | Competitive intelligence | Analyst | Thinker  # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >- # used by seo meta and the atom feed 
+  Product Marketing | Competitive intelligence | Analyst | Thinker
+
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://www.varunraghu.com/"
 
 github:
-  username: github_username # change to your github username
+  username:  nonexistent9  # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -41,11 +42,11 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    #https://twitter.com/username # change to your twitter homepage
+    - https://github.com/nonexistent9 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/varun-raghunathan/
 
 google_site_verification: # fill in to your verification string
 
