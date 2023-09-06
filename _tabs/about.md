@@ -14,3 +14,4 @@ I'm also an avid volunteer, education is a cause that is close to my heart and I
 
 In my downtime you can find me exercising, catching up on the latest trends in tech or being sucked into YouTube's algorithmic blackhole! 
 
+
