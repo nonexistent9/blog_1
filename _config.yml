@@ -20,7 +20,7 @@ timezone: America/Phoenix
 
 title: Varun Raghunathan # the main title
 
-tagline: Product Marketing | Competitive intelligence | Analyst | Thinker  # it will display as the sub-title
+tagline: Product Marketing | Analyst | Competitive intelligence | Thinker  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
 
@@ -32,7 +32,7 @@ github:
   username:  nonexistent9  # change to your github username
 
 twitter:
-  #username: twitter_username # change to your twitter username
+  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
