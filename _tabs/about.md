@@ -14,4 +14,8 @@ I'm also an avid volunteer, education is a cause that is close to my heart and I
 
 In my downtime you can find me exercising, catching up on the latest trends in tech or being sucked into YouTube's algorithmic blackhole! 
 
+___ 
+
+[View or Download my full Resume here!] (https://drive.google.com/file/d/1YtK759KJtHEmF5dm1-tWDwmRUR9SSlP9/view?usp=sharing) 
+
 
