@@ -1,4 +1,4 @@
-![Alt text](image.png)
+![There is nothing to writing, all you do is sit down at a typewriter and bleed.](https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Ff2ef64fde9775f9963a7c05de220a69e.cdn.bubble.io%2Ff1684587899767x875331351221297900%2Fimages%2520%252860%2529.jpeg?w=768&h=&auto=compress&dpr=1&q=50&fit=max)
 
 I never believed in those who ran "writing courses" or anyone who gave me a framework for writing. There is only one way to write and that is to sit at the typewriter and bleed. 
 
