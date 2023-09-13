@@ -1,3 +1,7 @@
+---
+category: [Marketing]
+---
+
 This post will guide you through the basic skills you need to become a good product marketer. All of these have been written from my experience in B2B SaaS product marketing in one of the top product companies in the world. 
 
 **Develop excellent communication skills:** Product Marketing sits between sales, marketing and product, you will find yourself in the middle of these three functions, often meeting multiple people on a daily basis. You need to be able to articulate your needs and requirements to these teams and also balance expectations. It is up to you and your team to set the expectations right without damaging your relationships with any of these verticals as you will be collaborating with them regularly. 
