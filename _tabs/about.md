@@ -17,6 +17,7 @@ In my downtime you can find me exercising, catching up on the latest trends in t
 
 ___ 
 
-[View my full Resume here](https://drive.google.com/file/d/1YtK759KJtHEmF5dm1-tWDwmRUR9SSlP9/view?usp=sharing)  
+> I'm currently looking for summer internship (2024) opportunities in Marketing, Marketing Analytics, Business Analytics and similar roles. If you like my profile and think I'd be a good fit, feel free to reach out to me!                        
+> [View my full Resume here](https://drive.google.com/file/d/1YtK759KJtHEmF5dm1-tWDwmRUR9SSlP9/view?usp=sharing)  
 
 
