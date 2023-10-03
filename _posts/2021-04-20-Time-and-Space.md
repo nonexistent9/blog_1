@@ -1,5 +1,5 @@
 ---
-category: [poetry]
+category: [Poetry]
 ---
 
 _Time and Space_
