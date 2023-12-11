@@ -1,5 +1,5 @@
 ---
-category: [projects]
+category: [Projects]
 ---
 Back to learning and upskilling. I knew that I've always had a keen eye for design - I could make decent design choices and easily pick out bad designs from good. I realized that is a skill not many have. I beleive more products in the future will compete purely on design rather than functionality. It is easy to build functionality at this point. 
 
